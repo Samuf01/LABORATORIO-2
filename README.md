@@ -23,8 +23,7 @@ Comprobar experimentalmente el Análisis de Mallas
 
 ![image](https://user-images.githubusercontent.com/94079321/142954569-0c4f6e23-29b4-4a7a-9e2f-bd6ffb3f5db4.png)
 
-4.  Procedimientos
-
+4.  Procedimiento
 
 - Implemente el circuito que se presenta a continuación 
 
