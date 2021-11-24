@@ -45,3 +45,18 @@ C) Compare los valores de la tabla 2.1 y realice sus propias conclusiones
 ![image](https://user-images.githubusercontent.com/94079321/143168857-5459d18b-5c65-49a7-ac61-23980743e6fc.png)
 
 5. Conclusiones 
+
+-
+
+-
+
+
+6. Resultados Analíticos 
+
+![image](https://user-images.githubusercontent.com/94079321/143170733-0994cf22-ad9e-48f0-83d0-228cae43bbf5.png)
+
+![image](https://user-images.githubusercontent.com/94079321/143170775-4df58fa3-6e2a-4738-98d4-926f35042604.png)
+
+
+
+
