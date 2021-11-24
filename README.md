@@ -46,6 +46,16 @@ C) Resultados Analíticos
 
 ![image](https://user-images.githubusercontent.com/94079321/143170775-4df58fa3-6e2a-4738-98d4-926f35042604.png)
 
+Solución al sistema de ecuaciones
+
+![image](https://user-images.githubusercontent.com/94079321/143303216-b03b12ff-9a29-4189-ac3a-7a7483404eb8.png)
+
+![image](https://user-images.githubusercontent.com/94079321/143303231-6c63a540-95f4-4354-9928-cf17a33317f3.png)
+
+![image](https://user-images.githubusercontent.com/94079321/143303247-a082171f-8a9f-45b6-b0d5-6b6c4f672816.png)
+
+![image](https://user-images.githubusercontent.com/94079321/143303273-6bb47bfb-5cdc-40ac-b46f-ea2ccb544675.png)
+
 D) Anote los valores en la tabla 2.1 y realice sus propias conclusiones 
 
 ![image](https://user-images.githubusercontent.com/94079321/143168857-5459d18b-5c65-49a7-ac61-23980743e6fc.png)
