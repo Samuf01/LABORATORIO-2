@@ -10,9 +10,14 @@ Comprobar experimentalmente el Análisis de Mallas
 
   1.2. 	Objetivo Especifico
   
-  -
-  -
-  
+  - Reconocer como emplear el método de corriente de la malla en cada ventana de esta y su
+    respectiva medición aplicando los instrumentos adecuados.
+    
+  - Conocer y analizar las ideas y los conceptos de básicos, sobre nodos, ramas y mallas mediante
+    su manipulación en el simulador.
+    
+  - Analizar y comprender cada uno de los temas presentados para un mejor manejo de circuitos
+    
   2 .  Información general   
   
 -El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
@@ -62,11 +67,28 @@ D) Anote los valores en la tabla 2.1 y realice sus propias conclusiones
 
 5. Conclusiones 
 
--
+- El método de corriente de la malla es uno de los métodos para resolver circuitos que se basa
+principalmente en la ley de Kirchhoff. El método de la corriente de malla facilita el análisis, y
+produce un número relativamente pequeño de ecuaciones a resolver.
 
--
+- Gracias a esta práctica entendemos desde un punto de vista práctico que un nodo es un punto
+de intersección, conexión o unión de elementos, las ramas son las conexiones que existen
+entre los nodos y las mallas no son más que circuitos cerrados que no tienen más circuitos
+cerrados dentro de ella.
+
+- Gracias al estudio de las leyes de Kirchhoff, circuitos cerrados y métodos de resolución de
+circuitos logramos tener un manejo adecuado de los instrumentos electrónicos en la práctica
+donde empleamos todos estos.
 
 6. Bibliografia
+
+SENA. (1978, 20 diciembre). Ciencias aplicadas. PDF. Recuperado 17 de noviembre de 2021, de https://repositorio.sena.edu.co/bitstream/handle/11404/4076/trabajo_energia_potencia.PDF;jsessionid=8308422C779D40F51D66B5338C3AABA4?sequence=1
+
+Capítulo 3 TRABAJO Y ENERGÍA. (s. f.). PDF. Recuperado 17 de noviembre de 2021, de https://www.ugr.es/~pittau/FISBIO/t3.pdf
+
+TRABAJO, ENERGÍA Y POTENCIA. (s. f.). PDF. Recuperado 17 de noviembre de 2021, de https://www2.ulpgc.es/hege/almacen/download/5/5480/Trabajo_potencia_y_energia.pdf
+
+
 
 
 
